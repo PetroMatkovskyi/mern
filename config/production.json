@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "petro study mern",
+  "mongoUri": "mongodb+srv://petro:1234qwer@cluster0.fgcc5.mongodb.net/mern?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
